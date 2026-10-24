@@ -1,15 +1,8 @@
 {
-  "updatedAt": "2026-10-24T04:00:42.060Z",
+  "updatedAt": "2026-10-24T04:15:22.091Z",
   "intervalMinutes": 15,
   "retentionHours": 24,
   "snapshots": [
-    {
-      "timestamp": "2026-10-23T04:01:07.619Z",
-      "data": {
-        "success": true,
-        "online": 0
-      }
-    },
     {
       "timestamp": "2026-10-23T04:15:25.264Z",
       "data": {
@@ -719,6 +712,13 @@
     },
     {
       "timestamp": "2026-10-24T04:00:42.060Z",
+      "data": {
+        "success": true,
+        "online": 1
+      }
+    },
+    {
+      "timestamp": "2026-10-24T04:15:22.091Z",
       "data": {
         "success": true,
         "online": 1
